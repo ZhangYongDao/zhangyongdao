@@ -4,7 +4,7 @@
 <!-- Replace YOUR_GITHUB_USERNAME with your GitHub username in the links below. -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:102A43,100:00D4FF&height=220&section=header&text=AI%20CREATOR%20%2F%20DIRECTOR&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=Where%20Cinema%20Meets%20Artificial%20Intelligence&descAlignY=60&descSize=15" width="100%" alt="AI Creator / Director banner" />{=html}
 
-YOUR NAME / 你的名字
+道艺工作室
 
 AI Creator · Film Director · Creative Technologist
 
